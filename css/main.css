@@ -1,0 +1,44 @@
+body {
+  background-image: url("https://www.sidi.org.br/wp-content/uploads/2020/09/bgbanner.jpg");
+}
+
+h1 {
+  color: #03fc98;
+}
+
+h2 {
+  color: #03fc98;
+}
+
+h3 {
+  color: #FFFFFF;
+}
+
+p {
+  color: #FFFFFF;
+}
+
+a {
+  color: #FFFFFF;
+}
+
+.centerDiv{
+  margin: auto;
+  width: 70%;
+  height: 70%;
+  border: 3px solid green;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tab{
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
