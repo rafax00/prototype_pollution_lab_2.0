@@ -14,3 +14,6 @@ npm install express
 ```
 node server.js
 ```
+## Write-up
+
+[Erick Furukawa: https://github.com/erickfurukawa/CTF-writeups/blob/main/Blog-do-SiDiney/writeup.md](https://github.com/erickfurukawa/CTF-writeups/blob/main/Blog-do-SiDiney/writeup.md)
